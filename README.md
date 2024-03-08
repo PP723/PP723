@@ -12,8 +12,8 @@ Hi 👋, I'm Prathamesh Pawar
  <br>
  <br>
  <br>
-
- **About Me**
+<h2>About Me</h2>
+ 
 
  - 🌐 Aspiring to make an impact as a **Data Analyst**
    
