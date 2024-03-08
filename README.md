@@ -1,4 +1,3 @@
-# Personal
 ![image](https://img.freepik.com/free-vector/dark-analytics-concept-illustration_114360-1653.jpg?w=1060&t=st=1709874430~exp=1709875030~hmac=c2b221e36e92a8e30fac0c7e775c1527e758bf008ff3b9823532898ad1efdf7b)
 <h1 align = "center">
  
