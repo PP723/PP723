@@ -5,7 +5,7 @@ Hi 👋, I'm Prathamesh Pawar
 </h1>
 
 <h3  align = "center">
- <b>Passionate entry-level data analytics professional with a robust background in statistical analysis, data manipulation, and visualization. Skilled in Python, Power BI, and SQL. Demonstrated experience in conducting project-based data analysis and interpretation.
+ <b>Experienced data analytics professional with a robust background in statistical analysis, data manipulation, and visualization. Skilled in Python, Power BI, and SQL. Demonstrated experience in conducting project-based data analysis and interpretation.
 </b>
 </h3>
 
