@@ -1,4 +1,4 @@
-![image]([https://img.freepik.com/free-vector/dark-analytics-concept-illustration_114360-1653.jpg?w=1060&t=st=1709874430~exp=1709875030~hmac=c2b221e36e92a8e30fac0c7e775c1527e758bf008ff3b9823532898ad1efdf7b](https://cdn.sanity.io/images/tlr8oxjg/production/2d8450596e26adafc8e47e88a65bce42104b732a-1456x816.png?w=3840&q=80&fit=clip&auto=format))
+![image](https://cdn.sanity.io/images/tlr8oxjg/production/2d8450596e26adafc8e47e88a65bce42104b732a-1456x816.png?w=3840&q=80&fit=clip&auto=format)
 <h1 align = "center">
  
 Hi 👋, I'm Prathamesh Pawar
